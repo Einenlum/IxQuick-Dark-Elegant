@@ -17,4 +17,4 @@ Preview
 Thanks
 ------
 
-Thanks to there.is.only.xul from freenode #firefox who helped me to understand Stylish and its mechanisms, and thanks to bionx (the author of [ixquick clean & minimal](http://userstyles.org/styles/85730/ixquick-clean-minimal)) whose code helped me to replace some elements.
+Thanks to there.is.only.xul from freenode #firefox who helped me to understand Stylish and its mechanisms, and thanks to bionx (the author of [ixquick clean & minimal](http://userstyles.org/styles/85730/ixquick-clean-minimal)) whose code helped me to understand how to replace some elements.
