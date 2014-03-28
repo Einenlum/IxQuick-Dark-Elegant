@@ -2,6 +2,7 @@ IxQuick-Dark-Elegant
 ====================
 
 A [Stylish](https://addons.mozilla.org/firefox/addon/stylish/) theme for IxQuick.
+
 ixquickDarkElegantHideAds.css hides IxQuick ads.
 ixquickDarkElegantDisplayAds.css makes them obvious.
 
