@@ -12,7 +12,7 @@ Some pages like configuration/FAQ are excluded from the theme.
 Installation
 ------------
 
-You can create a new style in Stylish and paste the entire css sheet. You can also preview and install it directly on [Userstyles.org](http://userstyles.org/styles/99684/ixquick-dark-elegant) (recommemded).
+You can create a new style in Stylish and paste the entire css sheet. You can also preview and install it directly on [Userstyles.org](http://userstyles.org/styles/99684/ixquick-dark-elegant) (recommended).
 
 Preview
 -------
