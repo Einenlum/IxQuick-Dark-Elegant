@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document regexp("https?://(?!support\.)ixquick\.com/(?!.*/aboutixquick/?.*|do/preferences\.pl.*|.*/privacy-policy.html.*|.*download-ixquick-plugin\.html.*|.*make-ixquick-your-homepage\.html.*).*")  {
+@-moz-document regexp("https?://(www.)?(?!support\.)ixquick\.com/(?!.*/aboutixquick/?.*|do/preferences\.pl.*|.*/privacy-policy.html.*|.*download-ixquick-plugin\.html.*|.*make-ixquick-your-homepage\.html.*).*")  {
     
     /* General and Home page */
     a:hover
