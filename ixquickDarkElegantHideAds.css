@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document regexp("https?://(www.)?(?!support.)ixquick\.com/(?!.*aboutixquick/?.*|do/preferences.pl.*|.*privacy-policy\.html.*|.*download-ixquick-plugin\.html.*|.*make-ixquick-your-homepage\.html.*).*")  {
+@-moz-document regexp("https?://(www.)?(?!support.)ixquick\.com/(?!.*aboutixquick/?.*|do/preferences.pl.*|.*privacy-policy\.html.*|.*protect-privacy\.html.*|.*press/.*|.*spread-the-word\.html.*|.*mobile-app-qa\.html.*|.*company\.html.*|.*link-instructions\.html.*|.*power-search-techniques\.html.*|.*protect-privacy-qa\.html.*|.*what-makes-ixquick-special\.html.*|.*techniques-recherche-puissance\.html.*|.*download-ixquick-toolbar\.html.*|.*instructions-lien-recherche\.html.*|.*parlez-dIxquick-a-vos-amis\.html.*|.*company-background\.html.*|.*company-management-bio\.html.*|.*company-faq\.html.*|.*commentaires\.html.*|.*traffic/.*|.*press-center-recent-coverage\.html.*|.*press-center-company-background\.html.*|.*press-center-logo\.html.*|.*press-center-screenshots\.html.*|.*press-center-contact\.html.*|.*press-center-releases\.html.*|.*do/ipd_optout\.pl.*|.*press-center\.html.*|.*download-ixquick-plugin\.html.*|.*make-ixquick-your-homepage\.html.*).*")  {
     
     /* General and Home page */
     a:hover
